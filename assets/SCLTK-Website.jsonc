@@ -1,0 +1,32 @@
+{
+    "copyright": "Copyright (C) 2026 MaxLHy0424.",
+    "announcement_file": "assets/announcement.txt",
+    "mainline": {
+        "stable": {
+            "version": "v7.2.1",
+            "program": "assets/stable-builds/SCLTK-Mainline.exe",
+            "sig": "assets/stable-builds/SCLTK-Mainline.exe.sig",
+            "enhanced_config": "assets/stable-builds/SCLTK-Mainline.conf"
+        },
+        "preview": {
+            "version": "v7.2.1",
+            "program": "assets/preview-builds/SCLTK-Mainline.exe",
+            "sig": "assets/preview-builds/SCLTK-Mainline.exe.sig",
+            "enhanced_config": "assets/preview-builds/SCLTK-Mainline.conf"
+        }
+    },
+    "legacy": {
+        "stable": {
+            "version": "v7.2.1",
+            "program": "assets/stable-builds/SCLTK-Legacy.exe",
+            "sig": "assets/stable-builds/SCLTK-Legacy.exe.sig",
+            "enhanced_config": "assets/stable-builds/SCLTK-Legacy.conf"
+        },
+        "preview": {
+            "version": "v7.2.1",
+            "program": "assets/preview-builds/SCLTK-Legacy.exe",
+            "sig": "assets/preview-builds/SCLTK-Legacy.exe.sig",
+            "enhanced_config": "assets/preview-builds/SCLTK-Legacy.conf"
+        }
+    }
+}
